@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Survey Form</h1>
+    </header>
+    <form action="">
+      <label for="Name"
+        >Name <br />
+        <input type="text" id="Name" placeholder="Enter Your Name" required />
+      </label>
+      <br />
+      <label for="Email"
+        >Email<br />
+        <input
+          type="email"
+          id="Email"
+          placeholder="Enter Your Email"
+          required
+        /> </label
+      ><br />
+      <label for="Age"
+        >Age<br />
+        <input
+          type="number"
+          id="Age"
+          placeholder="Enter Your Age"
+          required
+        /> </label
+      ><br />
+      <label for="Option">Which Option best describes you? </label><br />
+      <select name="Option" id="Option">
+        <option value="student">student</option>
+        <option value="fresher">fresher</option>
+        <option value="profession">profession</option>
+        <option value="more">more</option></select
+      ><br />
+      <label>Would you sugsst us something? </label>
+      <br />
+
+      <input type="radio" id="yes" name="choice" value="yes" />
+      <label for="yes">Yes</label><br />
+      <input type="radio" id="no" name="choice" value="no" />
+      <label for="no">No</label><br />
+      <br />
+      <label for="languages"
+        >Languages and frameworks known
+        <br />
+        <small>Check all that apply</small> </label
+      ><br />
+      <label for="inp-1"> <input type="checkbox" id="inp-1" />C </label><br />
+      <label for="inp-2"> <input type="checkbox" id="inp-2" />C# </label><br />
+      <label for="inp-3"> <input type="checkbox" id="inp-3" />C++ </label><br />
+      <label for="inp-1"> <input type="checkbox" id="inp-1" />C </label><br />
+      <label for="inp-2"> <input type="checkbox" id="inp-2" />C# </label><br />
+      <label for="inp-3"> <input type="checkbox" id="inp-3" />C++ </label><br />
+      <label for="inp-1"> <input type="checkbox" id="inp-1" />C </label><br />
+      <label for="inp-2"> <input type="checkbox" id="inp-2" />C# </label><br />
+      <label for="inp-3"> <input type="checkbox" id="inp-3" />C++ </label><br />
+      <br />
+      <label for="comment">Any comment</label>
+      <textarea
+        name="comment"
+        id="comment"
+        cols="30"
+        rows="10 "
+        placeholder="enter your comment here"
+      ></textarea>
+
+      <button type="submit" value="submit">Submit</button>
+    </form>
+  </body>
+</html>
