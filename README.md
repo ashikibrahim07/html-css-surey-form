@@ -34,10 +34,10 @@ git clone https://github.com/ashikibrahim07/html-css-survey-form.git
 4. Press Enter to execute the command. Git will clone the repository from the remote server to your local machine.
 5. Once the cloning process is complete, you'll have a local copy of the repository in the specified directory.
 
+# Live Demo
 
-## License
+You can view the live demo of the project [here](https://ashikibrahim07.github.io/html-css-survey-form/).
 
-This project is licensed under the MIT License.
 
 ## Author
 
@@ -46,3 +46,7 @@ Ashik Ibrahim S
 ## Acknowledgements
 
 This survey form was built with the help of tutorials and resources from GeeksforGeeks. Special thanks to GeeksforGeeks for providing valuable guidance and resources for web development.
+
+## License
+
+This project is licensed under the MIT License.
