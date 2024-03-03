@@ -2,6 +2,18 @@
 
 This is a simple HTML/CSS survey form that I built some time ago. I am in the process of uploading my old small projects to GitHub, and this is one of them.
 
+## Table of Contents
+
+- [Description](#description)
+- [Features](#features)
+- [Usage](#usage)
+- [Cloning the Repository](#cloning-the-repository)
+- [Live Demo](#live-demo)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
+
+
 ## Description
 
 This survey form is built using HTML and styled with CSS. It allows users to answer questions. And need to update a lot.
