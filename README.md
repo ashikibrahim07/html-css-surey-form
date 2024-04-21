@@ -1,6 +1,6 @@
 # HTML CSS Survey Form
 
-This is a simple HTML/CSS survey form that I built some time ago. I am in the process of uploading my old small projects to GitHub, and this is one of them.
+This is a simple HTML/CSS survey form.
 
 ## Table of Contents
 
